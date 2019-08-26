@@ -1,0 +1,25 @@
+
+
+黑阈 .\adb -d shell sh /data/data/me.piebridge.brevent/brevent.sh
+
+hyq3-kdp7@mail.xgdfz.tech
+zph19980224ZPH
+
+DXG7C-N36C4-C4HTG-X4T3X-2YV77 
+sdcard zph224
+.\adb shell pm grant com.fb.fluid android.permission.WRITE_SECURE_SETTINGS
+wusa.exe /uninstall /kb3177467
+
+onedrive 无法安装 
+注册表 HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\OneDrive 1改为0
+
+http://www.kuyunzy1.com/
+http://www.yongjiuzy.cc/
+https://www.yingdou3.com/
+
+powercfg -h 0ff
+
+
+
+
+这次实践虽然只有两周，但是我们得到的收获却不少，在这两周的实践中，才能真正的发现自己的不足，发现自己的基础太差，好多东西都不会，需要使用的时候发现自己对于软件和硬件的了解程度完全不够，需要使用的时候脑子里完全没有一点头绪，最后通过翻书，查资料才能得到自己想要的东西，经过这些，让我对于单片机的使用，蜂鸣器，数码管等的使用有了一定的掌握，锻炼了我们的动手能力。这次实践由于是分组合作，对于我的合作能力，对于任务的分析，任务的分配的能力也是一个不小的提升。整个实践过程中，要时刻注意软硬件的相配合，由于我们是温度检测，更需要注意二者配合，这对于我们是个不小的挑战，经过这两周的学习，虽不能说已经轻车熟路，但也是能够在完成任务的前提下将二者进行协调使用。短短的两周虽然短，期间夹杂了考试，复习等其他事情使得我不能专心于这次实践，但是功夫不负有心人，最终我们还是能够实现我们最初任务的目的，是一次非常有意义的实践课程。
